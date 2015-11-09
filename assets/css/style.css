@@ -6,7 +6,7 @@
 
 @charset 'UTF-8';
 
-@font-face{font-family:'FontAwesome';src:url('font/fontawesome-webfont.eot?v=4.0.1');src:url('font/fontawesome-webfont.eot?#iefix&v=4.0.1') format('embedded-opentype'),url('font/fontawesome-webfont.woff?v=4.0.1') format('woff'),url('font/fontawesome-webfont.ttf?v=4.0.1') format('truetype'),url('font/fontawesome-webfont.svg?v=4.0.1#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
+@font-face{font-family:'irsans_p30download.com';src:url('font/irsans_p30download.com-webfont.eot?v=4.0.1');src:url('font/irsans_p30download.com-webfont.eot?#iefix&v=4.0.1') format('embedded-opentype'),url('font/irsans_p30download.com-webfont.woff?v=4.0.1') format('woff'),url('font/irsans_p30download.com-webfont.ttf?v=4.0.1') format('truetype'),url('font/irsans_p30download.com-webfont.svg?v=4.0.1#irsans_p30download.comregular') format('svg');font-weight:normal;font-style:normal}
 
 /*********************************************************************************/
 /* Basic                                                                         */
@@ -294,7 +294,7 @@
 
 /*********************************************************************************/
 /* Icons                                                                         */
-/* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
+/* Powered by Font Awesome by Dave Gandy | http://irsans_p30download.com.io                 */
 /* Licensed under the SIL OFL 1.1 (font), MIT (CSS)                              */
 /*********************************************************************************/
 
@@ -315,7 +315,7 @@
 		.fa:before
 		{
 			display:inline-block;
-			font-family: FontAwesome;
+			font-family: irsans_p30download.com;
 			font-size: 1.25em;
 			text-decoration: none;
 			font-style: normal;

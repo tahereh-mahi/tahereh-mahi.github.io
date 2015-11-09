@@ -1,8 +1,7 @@
 ---
-title: Ullamco Laboris minim veniam
-featured: images/pic03.jpg
+title: Mediacom WinPad 10.1
+featured: images/pic06.jpg
 layout: post
 ---
 
-<p>Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>Mediacom has released a new 10 inch tablet, or better said hybrid, since it can also get a detachable keyboard in the mix. This is a Windows-based slate with an Intel processor at its core. This model will hit the stores this month, priced at 259 euros.</p>

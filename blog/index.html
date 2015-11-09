@@ -5,7 +5,6 @@ layout: default
 
 <!-- Main -->
 	<div id="main">
-
 		<div id="content" class="container">
 			{% for post in site.posts offset: 0 limit: 4 %}
 			<div class="row">
@@ -17,7 +16,12 @@ layout: default
 					{{ post.excerpt }}
 					<a href="{{ site.prefix }}{{ post.url }}" class="button button-style1">Read More</a>
 				</section>
+                
 			</div>
 			{% endfor %}
+            <p align="center">S:
+                <a href="http://www.laptopmag.com/">laptop</a>
+                <a href="http://tablet-news.com/">tablet</a>
+                <a href="http://gadgets.ndtv.com/mobiles/news">mobiles</a></p>
 		</div>
 	</div>

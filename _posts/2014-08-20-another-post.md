@@ -1,8 +1,7 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
-featured: images/pic01.jpg
+title: China's QiKU
+featured: images/pic05.jpg
 layout: post
 ---
 
-<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>QiKU, a joint venture between Chinese Internet company Qihoo 360 and handset maker Coolpad, announced on Friday that it plans to begin selling smartphones in India. The company says that it is planning to launch the QIKU Terra 808 and QiKU Terra 810 in the country</p>
